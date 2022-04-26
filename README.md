@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mary June 
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning fullstack web development #100Devs
-- 💞️ I’m looking to collaborate on projects that are beginner friendly & with individuals willing to be supportive on my learning journey.
-- 📫 How to reach me see my profile for info! 
+- 👀 I’m interested in front end and back-end web development, algorithms & data structures.
+- 🌱 I’m a Software Engineer @100Devs
+- 💞️ I’m looking to collaborate on projects that are entry level friendly & with individuals willing to be supportive throughout my professional development journey.
+- 📫 You can reach me here: https://maryjunesportfolio.netlify.app & https://www.linkedin.com/in/maryjune-scott89/
 
 <!---
 MaryJune89/MaryJune89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
